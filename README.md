@@ -1,6 +1,6 @@
 # npmdoc-compass-mixins
 
-#### api documentation for  [compass-mixins (v0.12.10)](https://github.com/Igosuki/compass-mixins#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-compass-mixins.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-compass-mixins) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-compass-mixins.svg)](https://travis-ci.org/npmdoc/node-npmdoc-compass-mixins)
+#### basic api documentation for  [compass-mixins (v0.12.10)](https://github.com/Igosuki/compass-mixins#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-compass-mixins.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-compass-mixins) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-compass-mixins.svg)](https://travis-ci.org/npmdoc/node-npmdoc-compass-mixins)
 
 #### Compass stylesheets
 
@@ -83,7 +83,8 @@
     "scripts": {
         "test": "./node_modules/jasmine-node/bin/jasmine-node test"
     },
-    "version": "0.12.10"
+    "version": "0.12.10",
+    "bin": {}
 }
 ```
 
